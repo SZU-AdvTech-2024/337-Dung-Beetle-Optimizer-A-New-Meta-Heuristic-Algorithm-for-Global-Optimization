@@ -1,0 +1,10 @@
+@article{REPO337,
+    author = "Xue, Jian-Kai and Shen, Bo",
+    doi = "10.1007/s11227-022-04959-6",
+    journal = "The Journal of Supercomputing",
+    month = "11",
+    pages = "",
+    title = "{Dung beetle optimizer: a new meta-heuristic algorithm for global optimization}",
+    volume = "79",
+    year = "2022"
+}
